@@ -1,1 +1,1 @@
-this is sample for git
+this is sample for gits
